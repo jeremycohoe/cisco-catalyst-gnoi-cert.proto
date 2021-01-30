@@ -120,6 +120,16 @@ The ouptut should look similar. Note the **Secure trustpoint** is listed as **gn
 
 This concludes the gNOI cert.proto section as the certifcate has been installed into the device's truststore and is available for use with gNMI.
 
+## Demo Example
+
+### 1. Device has no previous gNXI configuration or certificates
+### 2. Enable gNMI and secure-init to create certificates
+### 3. Send the gNMI certificate to the device
+### 4. Send another certificate to the device for secure telemetry
+### 5. Check with the GET operation that both certificates are installed
+
+
+![](./imgs/GNMI-GNOI.gif)
 
 ## Conclusion
 
