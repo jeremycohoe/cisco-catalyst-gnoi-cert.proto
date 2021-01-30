@@ -122,6 +122,8 @@ This concludes the gNOI cert.proto section as the certifcate has been installed 
 
 ## Demo Example
 
+YouTube Demo Video @ https://youtu.be/iZoF_KtN_Es
+
 ### 1. Device has no previous gNXI configuration or certificates
 ### 2. Enable gNMI and secure-init to create certificates
 ### 3. Send the gNMI certificate to the device
